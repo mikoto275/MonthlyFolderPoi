@@ -61,4 +61,5 @@ Windows 10 / 11（64bit）
 ## 開発・配布
 
 ミコト／月別フォルダへポイ
+
 BOOTH：https://syosetuseikei.booth.pm/
